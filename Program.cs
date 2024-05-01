@@ -1,5 +1,5 @@
 ﻿using System.Text; 
-using System;
+using System; 
 using viaCepApi;
 
 class Program
